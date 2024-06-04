@@ -1,0 +1,6 @@
+D:\UTN-PROGRAM_II\ParcialesModelos\El Dispositivo\El Dispositivo\bin\Debug\El Dispositivo.dll
+D:\UTN-PROGRAM_II\ParcialesModelos\El Dispositivo\El Dispositivo\bin\Debug\El Dispositivo.pdb
+D:\UTN-PROGRAM_II\ParcialesModelos\El Dispositivo\El Dispositivo\obj\Debug\El Dispositivo.csproj.AssemblyReference.cache
+D:\UTN-PROGRAM_II\ParcialesModelos\El Dispositivo\El Dispositivo\obj\Debug\El Dispositivo.csproj.CoreCompileInputs.cache
+D:\UTN-PROGRAM_II\ParcialesModelos\El Dispositivo\El Dispositivo\obj\Debug\El Dispositivo.dll
+D:\UTN-PROGRAM_II\ParcialesModelos\El Dispositivo\El Dispositivo\obj\Debug\El Dispositivo.pdb
